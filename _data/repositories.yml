@@ -1,7 +1,8 @@
 github_users:
   - tbmreza
-  - torvalds
-  - alshedivat
+  - dtolnay
+  - mflatt
+  - tpope
 
 github_repos:
   - alshedivat/al-folio
