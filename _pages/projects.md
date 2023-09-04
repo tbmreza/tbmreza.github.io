@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: List of projects that I've been working on.
+description: 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [I actually use, exploratory]
 horizontal: false
 ---
 
