@@ -1,10 +1,10 @@
 ---
 layout: page
 title: dotfiles
-description: My config files
+description: My config files.
 img: assets/img/dotfiles.jpg
 importance: 2
-category: I actually use
+category: practical
 giscus_comments: true
 ---
 

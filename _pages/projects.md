@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [I actually use, exploratory]
+display_categories: [practical, exploratory]
 horizontal: false
 ---
 
