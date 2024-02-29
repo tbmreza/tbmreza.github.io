@@ -5,7 +5,7 @@ description: Alternative search engine new users' escape hatch.
 img: assets/img/browser-ext.jpg
 importance: 1
 category: practical
-giscus_comments: true
+giscus_comments: false
 ---
 
 <!-- - https://www.searchenginemap.com/ -->

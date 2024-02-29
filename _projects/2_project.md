@@ -5,7 +5,7 @@ description: My config files.
 img: assets/img/dotfiles.jpg
 importance: 2
 category: practical
-giscus_comments: true
+giscus_comments: false
 ---
 
 ## Using [stow](https://www.gnu.org/software/stow/)
